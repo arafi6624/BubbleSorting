@@ -7,7 +7,7 @@ public class Runner {
             System.out.print(num+ " ");
         System.out.println();
 
-        BubbleSort.bubbleSort(testArr);
+        BubbleSort.BubbleSort(testArr);
 
         System.out.print("After: ");
         for (int num:testArr)
